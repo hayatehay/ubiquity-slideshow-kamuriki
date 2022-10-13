@@ -1,0 +1,11 @@
+#!/bin/sh
+if [ "$(whoami)" != "root" ];then
+  echo "Need to be root or run with sudo. Exiting."
+  exit 1
+fi
+
+apt update
+apt install ubiquity ubiquity-casper ubiquity-frontend-gtk ubiquity-slideshow-ubuntu ubiquity-ubuntu-artwork
+rm -rf /usr/share/ubiquity-slideshow/*
+cp -r slides /usr/share/uniquity-slideshow
+cp slideshow.conf /usr/share/uniquity-slideshow
