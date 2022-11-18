@@ -5,7 +5,7 @@ if [ "$(whoami)" != "root" ];then
 fi
 
 apt update
-apt install ubiquity ubiquity-casper ubiquity-frontend-gtk ubiquity-slideshow-ubuntu ubiquity-ubuntu-artwork
+apt install ubiquity-slideshow-ubuntu
 rm -rf /usr/share/ubiquity-slideshow/*
 cp -r slides /usr/share/ubiquity-slideshow
 cp slideshow.conf /usr/share/ubiquity-slideshow
