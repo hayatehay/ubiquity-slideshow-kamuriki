@@ -1,0 +1,19 @@
+Package: ubiquity-slideshow-kamuriki
+Source: ubiquity-slideshow-kamuriki
+Version: 115-2.1.2.1
+Architecture: all
+Maintainer: Hayate Nakamura <is01.njb@gmail.com>
+Installed-Size: 1304
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Provides: ubiquity-slideshow
+Section: x11
+Priority: optional
+Homepage: https://github.com/jin-asanami/ubiquity-slideshow-kamuriki
+Description: Ubiquity slideshow for Kamuriki Linux
+ A slideshow intended for the Ubiquity installer, designed as a quick
+ introduction to Kamuriki.
+ .
+ (Repackaged on Tue, 08 May 2018 15:14:36 +0900 by dpkg-repack.)
+ .
+ (Repackaged on Sat, 30 May 2020 11:27:01 +0900 by dpkg-repack.)
