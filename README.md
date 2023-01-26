@@ -1,9 +1,4 @@
 # ubiquity-slideshow-kamuriki
 
-/usr/share/ubiquity-slideshowの中身をこれで置換
-
-追加でこれも導入する
-```sudo apt install ubiquity-slideshow-ubuntu```
-
-Kamurikiならpacaptでこれでも
-```sudo pacman -S ubiquity-slideshow-ubuntu```
+パッケージを作ろう
+```dpkg-deb -b slide ubiquity-slideshow-kamuriki_115-2.1.2.1_all.deb```
