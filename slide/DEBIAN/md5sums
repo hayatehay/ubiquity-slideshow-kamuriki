@@ -1,7 +1,7 @@
 492a40e846126177f28fced4d12ca463  usr/share/ubiquity-slideshow/slideshow.conf
 4c0fb420cfb11dd1194124d403cd5643  usr/share/ubiquity-slideshow/slides/00_welcome.html
 10a77b6d75022b18a3f5c16f6fbd44b0  usr/share/ubiquity-slideshow/slides/01_lxqt.html
-1d01c89d6e84d1fe71414c6dcd4f00bf  usr/share/ubiquity-slideshow/slides/02_browser.html
+d72fa49ec187a18ef971847c5a4c0cb0  usr/share/ubiquity-slideshow/slides/02_browser.html
 151779271993ac9321fa4a54449c8d8d  usr/share/ubiquity-slideshow/slides/03_office.html
 c7c4c0227a1646d2dcb09e1a14c6db51  usr/share/ubiquity-slideshow/slides/04_media.html
 a2ce136071b46caf5bbc78076cf7358d  usr/share/ubiquity-slideshow/slides/05_photo.html
@@ -14,7 +14,6 @@ fbd98b98bea7f2ab56e660e1e82d2f8b  usr/share/ubiquity-slideshow/slides/07_help.ht
 4dbe765ac8c83b5b4cbb3e048c526802  usr/share/ubiquity-slideshow/slides/icons/audacious.png
 b536b5357e3447b7c685e2a4bac4b201  usr/share/ubiquity-slideshow/slides/icons/chromium.png
 d2e5db17b95cde183d3aaf49b688af63  usr/share/ubiquity-slideshow/slides/icons/firefox.png
-e164dfcb82663921fd538f2594c96ca3  usr/share/ubiquity-slideshow/slides/icons/floorp.png
 d22ce5314ef2d31eeb1e9e32100c33d6  usr/share/ubiquity-slideshow/slides/icons/gimp.png
 8de089d04fde31b4d827e3524b50813c  usr/share/ubiquity-slideshow/slides/icons/gnumeric.png
 25ef34426f640a75a80a13d119d0208e  usr/share/ubiquity-slideshow/slides/icons/libreoffice.png
@@ -23,7 +22,7 @@ a75afc6083a41076a98294de9eb1dc30  usr/share/ubiquity-slideshow/slides/icons/lxim
 a5ebabed3b1e16b319950609f2eed4cf  usr/share/ubiquity-slideshow/slides/icons/vlc.png
 09ed0872cf55fb686afebf22beb88490  usr/share/ubiquity-slideshow/slides/l10n/ja/00_welcome.html
 6b31f410e398ec8a5056563e1d8cdee7  usr/share/ubiquity-slideshow/slides/l10n/ja/01_lxqt.html
-7b27b06ae1c80a3d1d5244c107c32900  usr/share/ubiquity-slideshow/slides/l10n/ja/02_browser.html
+598dac548110f9d57633866825a164b7  usr/share/ubiquity-slideshow/slides/l10n/ja/02_browser.html
 040cda89152b473269f734c3178ab091  usr/share/ubiquity-slideshow/slides/l10n/ja/03_office.html
 2043d8319444a7329c895ebbc0ab3ac0  usr/share/ubiquity-slideshow/slides/l10n/ja/04_media.html
 7c7c4068d84d9ad62dce3eea885bdd89  usr/share/ubiquity-slideshow/slides/l10n/ja/05_photo.html
@@ -41,7 +40,7 @@ a3717adaf3928e602a197d245ead45e7  usr/share/ubiquity-slideshow/slides/link/arrow
 a9684c1bf3270827ba05d06df3de1aca  usr/share/ubiquity-slideshow/slides/link/bullet-point.png
 975e7099ae7dd1c3d57123d0b1890352  usr/share/ubiquity-slideshow/slides/screenshots/00_welcome.png
 ac4679d1613fb1cc4e5ead417cea81cc  usr/share/ubiquity-slideshow/slides/screenshots/01_lxqt.png
-d76ae73032a09111a4b643bb52b1bce8  usr/share/ubiquity-slideshow/slides/screenshots/02_browser.png
+312148941102f074cfabdf9c24b79f6a  usr/share/ubiquity-slideshow/slides/screenshots/02_browser.png
 e037929285256638277d38c2679b21eb  usr/share/ubiquity-slideshow/slides/screenshots/03_office.png
 7d5ccf555104b2d7c4db785cf2f0e937  usr/share/ubiquity-slideshow/slides/screenshots/04_media.png
 037796204b3395c83edc32033ca0a884  usr/share/ubiquity-slideshow/slides/screenshots/05_photo.png

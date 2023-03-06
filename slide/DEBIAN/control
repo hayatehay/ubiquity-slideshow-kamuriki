@@ -1,9 +1,9 @@
 Package: ubiquity-slideshow-kamuriki
 Source: ubiquity-slideshow-kamuriki
-Version: 115-2.1.2.1
+Version: 115-2.2.1.1
 Architecture: all
 Maintainer: Hayate Nakamura <is01.njb@gmail.com>
-Installed-Size: 1304
+Installed-Size: 1300
 Conflicts: ubiquity-slideshow
 Replaces: ubiquity-slideshow
 Provides: ubiquity-slideshow
